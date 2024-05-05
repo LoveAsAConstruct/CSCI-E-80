@@ -11,7 +11,7 @@ MODEL = "bert-base-uncased"
 K = 3
 
 # Constants for generating attention diagrams
-FONT = ImageFont.truetype("assets/fonts/OpenSans-Regular.ttf", 28)
+FONT = ImageFont.truetype("Project 6/attention/assets/fonts/OpenSans-Regular.ttf", 28)
 GRID_SIZE = 40
 PIXELS_PER_WORD = 200
 
